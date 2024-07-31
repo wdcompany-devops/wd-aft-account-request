@@ -2,7 +2,7 @@ module "sandbox" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "laura.oliveira@fullsteam.com"
+    AccountEmail              = "josieloliveira@hotmail.com"
     AccountName               = "wd-pixar"
     ManagedOrganizationalUnit = "FullSteamPay"
     SSOUserEmail              = "laura.oliveira@iteris.com.br"
