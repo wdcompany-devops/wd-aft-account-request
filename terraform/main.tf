@@ -3,7 +3,7 @@ module "sandbox" {
 
   control_tower_parameters = {
     AccountEmail              = "josieloliveira@hotmail.com"
-    AccountName               = "wd-pixar"
+    AccountName               = "management-root"
     ManagedOrganizationalUnit = "FullSteamPay"
     SSOUserEmail              = "laura.oliveira@iteris.com.br"
     SSOUserFirstName          = "Laura"
@@ -23,5 +23,5 @@ module "sandbox" {
     group = "non-prod"
   }
 
-  account_customizations_name = "pixar"
+  account_customizations_name = "wd-pixar"
 }
