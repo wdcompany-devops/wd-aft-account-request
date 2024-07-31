@@ -4,7 +4,7 @@ module "sandbox" {
   control_tower_parameters = {
     AccountEmail              = "laura.oliveira@fullsteam.com"
     AccountName               = "wd-pixar"
-    ManagedOrganizationalUnit = "Pixar Landing zone"
+    ManagedOrganizationalUnit = "FullSteamPay"
     SSOUserEmail              = "laura.oliveira@iteris.com.br"
     SSOUserFirstName          = "Laura"
     SSOUserLastName           = "Oliveira"
