@@ -4,7 +4,7 @@ module "sandbox" {
   control_tower_parameters = {
     AccountEmail              = "josieloliveira@hotmail.com"
     AccountName               = "management-root"
-    ManagedOrganizationalUnit = "FullSteamPay (ou-bukh-eo7srkvx)"
+    ManagedOrganizationalUnit = "FullSteamPay (ou-bukh-udf9u39z)"
     SSOUserEmail              = "laura.oliveira@iteris.com.br"
     SSOUserFirstName          = "Laura"
     SSOUserLastName           = "Oliveira"
