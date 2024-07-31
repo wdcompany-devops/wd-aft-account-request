@@ -16,7 +16,7 @@ module "sandbox" {
 
   change_management_parameters = {
     change_requested_by = "Laura Oliveira"
-    change_reason       = "Creating landing zone for new business unit"
+    change_reason       = "Updating settings for new business unit"
   }
 
   custom_fields = {
