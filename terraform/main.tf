@@ -4,7 +4,7 @@ module "wd-pixar" {
   control_tower_parameters = {
     AccountEmail              = "wd-pixar-271828@gmail.com"
     AccountName               = "wd-pixar-dev"
-    ManagedOrganizationalUnit = "FullSteamPay (ou-bukh-udf9u39z)"
+    ManagedOrganizationalUnit = "FullSteamPay (ou-bukh-eo7srkvx)"
     SSOUserEmail              = "laura.oliveira@iteris.com.br"
     SSOUserFirstName          = "Laura"
     SSOUserLastName           = "Oliveira"
