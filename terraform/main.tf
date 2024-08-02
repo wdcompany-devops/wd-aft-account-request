@@ -1,9 +1,9 @@
-module "sandbox" {
+module "wd-pixar" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "josieloliveira@hotmail.com"
-    AccountName               = "management-root"
+    AccountEmail              = "wd-pixar-271828@gmail.com"
+    AccountName               = "wd-pixar-dev"
     ManagedOrganizationalUnit = "FullSteamPay (ou-bukh-udf9u39z)"
     SSOUserEmail              = "laura.oliveira@iteris.com.br"
     SSOUserFirstName          = "Laura"
